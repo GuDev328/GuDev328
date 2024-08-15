@@ -22,23 +22,7 @@
 
 <br/>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="#">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="#">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="#">
-		<img style="width: 48px;" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"></a>
-    <a style="margin-left: 10px;" target="_blank" href="#">
-		<img style="width: 48px;" src="https://img.icons8.com/?size=100&id=108643&format=png&color=000000"></a>
-		
-  </div>
-
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -107,3 +91,20 @@
 ---
 
 <br>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="#">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="#">
+		<img style="width: 48px;" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"></a>
+    <a style="margin-left: 10px;" target="_blank" href="#">
+		<img style="width: 48px;" src="https://img.icons8.com/?size=100&id=108643&format=png&color=000000"></a>
+		
+  </div>
+
+</p>
