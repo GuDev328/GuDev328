@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="gudev.svg" width="1200" alt="a" />
+  <img src="gudev.svg" width="1200" alt="Banner" />
 </a>
 
 <!--  -->
