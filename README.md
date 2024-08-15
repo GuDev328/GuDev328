@@ -1,10 +1,10 @@
 <a href="#" target="_blank">
-  <img src="svg/gudev.svg" width="1200" alt="a" />
+  <img src="gudev.svg" width="1200" alt="a" />
 </a>
 <h1 align="center"><b>Hi 👋 , I'm Pham Tien Dat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pham+Tien+Dat..&hearts;++;Front-End+Developer,;Infomation+Technology+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+<p align="center" style="position: absolute; top: 50px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=20&center=true&vCenter=true&width=600&height=100&lines=Pham+Tien+Dat..&hearts;++;Front-End+Developer,;Infomation+Technology+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
 ## 💻 &nbsp;About Me
