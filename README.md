@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="svg/gudev.svg" width="1200" alt="a" />
+</a>
 <h1 align="center"><b>Hi 👋 , I'm Pham Tien Dat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -21,8 +24,6 @@
 💻 My Profile Website <a href="#" target="blank">My website</a>
 
 <br/>
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -89,6 +90,7 @@
 </p>
 
 ---
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
